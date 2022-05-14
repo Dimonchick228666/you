@@ -1,0 +1,50 @@
+body{
+  background-color: #DCDCDC;
+}
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #4682B4;
+  color: white;
+}
+.p1{
+  font-size: 2em;
+}
+.link {
+  display: flex;
+  background-color: #333;
+}
+
+/* Style the navigation bar links */
+.link a {
+  color: white;
+  padding: 20px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+/* Change color on hover */
+.link a:hover {
+  background-color: #ADD8E6;
+  color: black;
+}
+.img{
+  align-items: left;
+  width: 30%;
+  border: 15px solid #696969;
+  margin: 20px;
+  border-radius: 5px;
+  float: left;
+}
+.img1{
+  width: 100%;
+}
+
+.p2{
+  float: center;
+  font-size: 2em;
+  text-align: center;
+}
+.p3{
+  text-align: right;
+}
